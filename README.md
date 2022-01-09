@@ -44,9 +44,13 @@ in these two phases I've woorked in multiple projects, some are main projects wi
 
 </br>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/XREgSzIx1LrfBFEWEM/giphy.gif)
 
 </br>
+
+![Alt Text](https://media.giphy.com/media/EEfpSy0MJM15nJyHi4/giphy.gif)
+
+
 </br>
 
 ## 2. Construction Hazards
@@ -57,6 +61,27 @@ in these two phases I've woorked in multiple projects, some are main projects wi
 ## 3. Puck Bash
 
 </br>
+
+![Alt Text](https://media.giphy.com/media/E1hlQaM0yJczPjDfnd/giphy.gif)
+
 </br>
 
 ## 4. All The Way Up
+
+</br>
+
+![Alt Text](https://media.giphy.com/media/Ng4TEWl7ag60RX5kcf/giphy.gif)
+
+</br>
+
+</br>
+
+![Alt Text](https://media.giphy.com/media/3ttcoJAkhYTJEjUj1K/giphy.gif)
+
+</br>
+
+</br>
+
+![Alt Text](https://media.giphy.com/media/5cespmmiqLf2zOQM7t/giphy.gif)
+
+</br>
