@@ -38,9 +38,16 @@ in these two phases I've woorked in multiple projects, some are main projects wi
 
 </br>
 
+all the projects' scripts that i worked on and created will be found in the Scripts folder above. the games are:
+
 </br>
 
 ## 1. Naqsh
+
+</br>
+
+Naqsh is a game that present the arabic motifs as small puzzles, The player finds the right angles to attach and complete the whole shape.
+my role was the only programmer in this game, and the leader.
 
 </br>
 
@@ -50,15 +57,28 @@ in these two phases I've woorked in multiple projects, some are main projects wi
 
 ![Alt Text](https://media.giphy.com/media/EEfpSy0MJM15nJyHi4/giphy.gif)
 
-
 </br>
+
 
 ## 2. Construction Hazards
 
 </br>
+
+i was a support programmer in this game, i solved bugs in the ui and created user feedback with particle systems.
+
+</br>
+
+![Alt Text](https://media.giphy.com/media/xDcP6sTOIAq9odbuds/giphy.gif)
+
+</br>
+
 </br>
 
 ## 3. Puck Bash
+
+</br>
+
+i was a support programmer in this project too, i solved bugs like the peddle escaping the arena and created the background animations
 
 </br>
 
@@ -67,6 +87,10 @@ in these two phases I've woorked in multiple projects, some are main projects wi
 </br>
 
 ## 4. All The Way Up
+
+</br>
+
+in this project i was the game director, programmer and sound designer, i worked on a lot of scripts to build the game from scratch till polish.
 
 </br>
 
