@@ -76,7 +76,7 @@ in these two phases I've woorked in multiple projects, some are main projects wi
 
 </br>
 
-![Alt Text](https://media.giphy.com/media/3ttcoJAkhYTJEjUj1K/giphy.gif)
+![Alt Text](https://media.giphy.com/media/9QSKbhWqoZDLYJqCgd/giphy.gif)
 
 </br>
 
