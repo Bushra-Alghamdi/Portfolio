@@ -3,9 +3,6 @@
 </br>
 
 
-Hi Sara
-
-
 # Discription
 
 </br>
@@ -44,7 +41,7 @@ in these two phases I've woorked in multiple projects, some are main projects wi
 </br>
 
 ## 1. Naqsh
-Gif Example 
+
 </br>
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
